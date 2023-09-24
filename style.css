@@ -1,0 +1,53 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    width: 700px;
+    height: 800px;
+    margin: 0% auto;
+}
+.outer h1{
+    text-align: center;
+}
+.heading1{
+    margin-left: -234px;
+}
+.heading2{
+    margin-left: 30px;
+}
+.pargrph1{
+    margin-left: 30px;
+    text-align: justify;
+}
+.border{
+    width: auto;
+    padding: 5px;
+    background-color: rgb(153, 153, 152);
+    border: 1px solid rgb(231, 203, 203);
+    font-weight: bold;
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.pr{
+    font-size: 20px;
+}
+.l1{
+    width: 20%;
+   
+}
+.l2{
+    width: 8%;
+   
+}
+.l3{
+    width: 8%;
+    
+}
+.l4{
+    width: 18%;
+    
+}
